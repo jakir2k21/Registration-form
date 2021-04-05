@@ -1,0 +1,8 @@
+#Contact {
+    background-color: rgb(187, 182, 185);
+    padding: 10% ;
+}
+.form-group label{
+    margin-bottom: 0%;
+    font-weight: bold;
+}
